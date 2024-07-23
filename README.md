@@ -3,6 +3,10 @@
 LinuxPowerMenuGUI is a simple Bash script that provides a graphical power menu using `zenity` for Linux systems. It allows users to easily choose between power off, restart, and suspend options.
 
 
+<p align="center">
+  <img src="screenshot.png" alt="Power Menu Screenshot">
+</p>
+
 ## Requirements
 
 - Check `zenity` installed on the system.If not you can below command to install it :
